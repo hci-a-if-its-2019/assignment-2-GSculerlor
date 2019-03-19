@@ -1,25 +1,36 @@
 # Sketching and Prototyping
-Using the information in the results of Assignment 1 for what is good and bad about the UI for designed tasks, we are going to make **Sketches** and **Prototypes**. These sketches and prototypes will lead to better design in Assignment 3. The prototypes will be then tested through a usability evaluation followed by design revision in Assignment 4.
-
 ## Part A: Sketches
-Sketch at least **3 (three)** different UIs for the functions you are targeting. These three interfaces should be _dramatically different_ in terms of design directions. For example, they can be with different organizations of what functions on each screen or using a different layout of the icons, widgets, and menus on the screens. If you want, you can also incorporate non-on-screen UIs: physical buttons, gestures through motion sensors, etc.
-
-You need **not** sketch the whole interface. It is not necessary for the sketches to have every function or every function in detail, but there should be enough to show off your general idea. **Be creative!** Draw your idea and label a few of the widgets so we can tell your intent. The goal is to have at least 3 good UIs in *interesting* ways. Sketches should be done on paper with pens and/or pencils (do not use a computer).
-
 ### 1. Scan/Photo of Sketches
 ```
-Be sure to label the different versions so you can differentiate them in your discussion. 
-If you choose to take a picture of your sketches, please make sure the texts are readable.
+I hope the texts is readable enough
 ```
 
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
+![1](img/sketch_1.jpg)
+
+![2](img/sketch_2.jpg)
 
 ### 2. Version Differences
+
+#### Sketch 1
+
 ```
-Please write a paragraph talking about the differences between the versions
+It's very obvious that button is something that really intended to be clicked. So that's why I placed the button below the other existing button (stacked view) so user can see them like action center
+```
+
+#### Sketch 2
+
+```
+Since it's on the same context (beatmap page), so I think it's make sense to place it on same page both the beatmap info, discussion forum, and other relevant page then separate them into tab view.
+```
+
+#### Sketch 3
+
+```
+~
 ```
 
 ### 3. Selected Sketch
+
 ```
 Please write a paragraph telling us about which design you picked for Parts B and C 
 and why you selected it.
@@ -34,19 +45,15 @@ and how it is reflected in your design.
 ## Part B: Assumptions
 ### 1. Hardware
 ```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
+1. Every PC/laptops with at least 1:1 or 4:3 screen ratio
+2. Can be mouse + keyboard user or touchscreen user
 ```
 ### 2. Users
 ```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
+1. Of course osu! player 
+2. Really know what's osu! related context and glossarium
+3. Familiar with old page or new page design
+4. Specifically Mappers, QAT, or Beatmap Nominator (player who create beatmap, beatmap quality assurance, and beatmap nominator/checker) who use this page more often then rest of the players
 ```
 
 ## Part C: Prototypes
