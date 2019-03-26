@@ -58,4 +58,8 @@ Based on my assumption and my knowledge on contextual inquiry, user should be ab
 4. Specifically Mappers, QAT, or Beatmap Nominator (player who create beatmap, beatmap quality assurance, and beatmap nominator/checker) who use this page more often then rest of the players
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+
+![Overview](img/freehand_overview.png)
+
+Freehand Link: https://projects.invisionapp.com/freehand/document/cXj02sDEu
+Prototype Link: https://invis.io/9KR79VM2HGV
