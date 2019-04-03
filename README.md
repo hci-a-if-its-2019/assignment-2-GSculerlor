@@ -62,5 +62,7 @@ Based on my assumption and my knowledge on contextual inquiry, user should be ab
 ![Overview](img/freehand_overview.png)
 
 Freehand link: https://projects.invisionapp.com/freehand/document/cXj02sDEu
+
 Low-fidelity prototype link: https://invis.io/9KR79VM2HGV
+
 High-fidelity prototype link: https://invis.io/Q4RCSR22TUJ
